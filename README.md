@@ -9,7 +9,7 @@ Install
 
 ```r
 > library(devtools)
-> install_github("maj-biostat/pkgstats")
+> install_github("maj-biostat/rpkgstats")
 ```
 
 Add an environment variable for temp directory
