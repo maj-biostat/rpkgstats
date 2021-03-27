@@ -8,7 +8,8 @@ This has got to have been done somewhere else already.
 Install 
 
 ```r
-install_github("maj-biostat/pkgstats")
+> library(devtools)
+> install_github("maj-biostat/pkgstats")
 ```
 
 Add an environment variable for temp directory
