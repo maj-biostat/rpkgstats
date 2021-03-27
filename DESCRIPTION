@@ -1,0 +1,12 @@
+Package: pkgstats
+Type: Package
+Title: Downloads cran usage logs
+Version: 0.1.0
+Author: MAJ
+Maintainer: MAJ <yourself@somewhere.net>
+Description: Downloads cran usage logs.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports: data.table, R.utils, fst, httr, utils
+RoxygenNote: 7.1.1

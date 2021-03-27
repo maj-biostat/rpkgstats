@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+import(data.table)
+import(R.utils)
+import(fst)
+import(httr)
+importFrom("utils", "download.file")
